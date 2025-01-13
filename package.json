@@ -99,7 +99,7 @@
 		"prettier": "3.3.3",
 		"prettier-plugin-svelte": "3.2.7",
 		"lint-staged": "15.2.10",
-		"publint": "0.2.11",
+		"publint": "0.3.1",
 		"svelte-check": "4.0.5",
 		"svelte2tsx": "0.7.22",
 		"tslib": "2.7.0",
